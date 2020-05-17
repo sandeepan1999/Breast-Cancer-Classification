@@ -31,5 +31,6 @@ Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagn
 ## Insights
 
 ![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/subplot.png "Subplot")
+
 ![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/confusion_matrix.png "Confusion Matrix")
 
