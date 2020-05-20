@@ -43,7 +43,7 @@ Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagn
         0.0       1.00      0.94      0.97        48
         1.0       0.96      1.00      0.98        66
 
-avg / total       0.97      0.97      0.97       114
+
 
 
 
