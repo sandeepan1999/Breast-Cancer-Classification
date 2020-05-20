@@ -1,7 +1,7 @@
 # Breast-Cancer-Classification
 
-## Problem Statement
-Predicting if the cancer diagnosis is benign or malignant based on several observations/features
+## Objective
+This analysis aims to observe which features are most helpful in predicting malignant or benign cancer and to see general trends that may aid us in model selection and hyper parameter selection. The goal is to classify whether the breast cancer is benign or malignant. To achieve this i have used machine learning classification methods to fit a function that can predict the discrete class of new input.
 
 30 features are used, examples:
 
@@ -28,9 +28,19 @@ Target class:
 
 Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
-## Insights
+## Analysis
 
-![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/subplot.png "Subplot")
+![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/correlation%20matrix.png"Correlation Matri")
 
-![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/confusion_matrix.png "Confusion Matrix")
+![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/confusion_matrix.png"Confusion Matrix")
+
+## Report
+                precision    recall   f1-score    support
+
+        0.0       1.00        0.94      0.97        48
+        1.0       0.96        1.00      0.98        66
+
+avg / total       0.97        0.97      0.97       114
+
+
 
