@@ -30,19 +30,20 @@ Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagn
 
 ## Analysis
 
-###Correlation Matrix
+#### Correlation Matrix
 ![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/correlation%20matrix.png "Correlation Matrix")
 
 
-### Confusion Matrix
+#### Confusion Matrix
 ![alt text](https://github.com/sandeepan1999/Breast-Cancer-Classification/blob/master/confusion_matrix.png "Confusion Matrix")
 
 ## Report
-                precision    recall   f1-score    support
+             precision    recall  f1-score   support
 
-        0.0       1.00        0.94      0.97        48
-        1.0       0.96        1.00      0.98        66
-avg / total       0.97        0.97      0.97       114
+        0.0       1.00      0.94      0.97        48
+        1.0       0.96      1.00      0.98        66
+
+avg / total       0.97      0.97      0.97       114
 
 
 
